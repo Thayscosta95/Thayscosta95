@@ -11,7 +11,7 @@ Me chamo Thays, sou desenvolvedora Fullstack, atualmente estou aprendendo e cria
 
 E estou iniciando o aprendizado de: 
 <br>
-
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
 - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo">
 
 
