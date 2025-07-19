@@ -67,11 +67,11 @@ Olá! 👋 Me chamo **Thays Costa**, sou uma desenvolvedora **Fullstack** com fo
 
 ## 💬 Curiosidades sobre mim
 
-- 🎨 Tenho uma veia artística — adoro design, cores e criação visual
-- 🧠 Gosto de entender como as coisas funcionam "por trás dos bastidores"
-- ✏️ Faço anotações, mapas mentais e costumo organizar bem meu processo de estudo
-- ☕ Viciada em café (principalmente quando estou codando)
-- 👩‍🏫 Já ajudei colegas iniciantes com mentorias informais — compartilhar é crescer 💙
+- 🏋️‍♀️ No tempo livre, gosto de treinar CrossFit, escutar podcasts e ler livros — corpo ativo e mente em evolução  
+- 🧠 Gosto de entender como as coisas funcionam "por trás dos bastidores"  
+- ✏️ Faço anotações, mapas mentais e costumo organizar bem meu processo de estudo  
+- ☕ Viciada em café (principalmente quando estou codando)  
+- 👩‍🏫 Já ajudei colegas iniciantes com mentorias informais — compartilhar é crescer 💙  
 
 ---
 
