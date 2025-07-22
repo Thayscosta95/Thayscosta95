@@ -14,7 +14,7 @@ Olá! 👋 Me chamo **Thays Costa**, sou uma desenvolvedora **Fullstack** com fo
 
 - 🎓 Atualmente estudando e praticando com foco em projetos web modernos
 - 💻 Trabalhando em projetos pessoais e aprimorando minhas habilidades com Angular, React e Node.js
-- 🎯 Buscando minha primeira oportunidade profissional na área de desenvolvimento
+- 🎯 Buscando aprimorar minhas habilidades e sempre buscando evoluir na área de Dev
 - 🤝 Adoro compartilhar conhecimento e aprender em comunidade
 - 🌐 Curiosa sobre UX/UI, acessibilidade e performance na web
 
