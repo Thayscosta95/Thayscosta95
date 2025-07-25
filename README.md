@@ -26,8 +26,13 @@ Olá! 👋 Me chamo **Thays Costa**, sou uma desenvolvedora **Fullstack** com fo
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  
 </p>
 
 ---
@@ -35,10 +40,12 @@ Olá! 👋 Me chamo **Thays Costa**, sou uma desenvolvedora **Fullstack** com fo
 ## 📚 Estudando atualmente
 
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+  
   <img src="https://img.shields.io/badge/Testes%20Unitários-Jest/Cypress-green?style=for-the-badge" />
+  
 </p>
 
 ---
@@ -55,10 +62,10 @@ Olá! 👋 Me chamo **Thays Costa**, sou uma desenvolvedora **Fullstack** com fo
 ## 🌍 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/thayscosta/" target="_blank">
+  <a href="https://www.linkedin.com/in/thays-silva-costa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://thayscosta95.github.io/Portfolio-Thays/" target="_blank">
+  <a href="https://portifolio-thays-costa.vercel.app/home#home" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-EC5FA4?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
