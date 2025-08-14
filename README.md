@@ -3,7 +3,7 @@
 
 <p align="center">
 💡 Apaixonada por criar interfaces modernas, intuitivas e acessíveis.<br>
-🌱 Em constante evolução, explorando novas tecnologias e transformando ideias em experiências digitais únicas.
+🌱 Em constante evolução, explorando novas tecnologias e transformando ideias em experiências digitais.
 </p>
 
 ---
