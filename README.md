@@ -37,30 +37,6 @@ Olá! 👋 Me chamo **Thays Costa**, sou uma desenvolvedora **Fullstack** com fo
 
 ---
 
-## 📚 Estudando atualmente
-
-<p>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-  
-  <img src="https://img.shields.io/badge/Testes%20Unitários-Jest/Cypress-green?style=for-the-badge" />
-  
-</p>
-
----
-
-## 📈 Minhas estatísticas no GitHub
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thayscosta95&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayscosta95&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🌍 Onde me encontrar
-
 <p>
   <a href="https://www.linkedin.com/in/thays-silva-costa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
