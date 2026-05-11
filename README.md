@@ -1,46 +1,69 @@
 <h1 align="center">👩‍💻 Thays Costa</h1>
-<h3 align="center">Desenvolvedora Fullstack com foco em Front-End</h3>
+<h3 align="center">Desenvolvedora Back-end | Node.js • APIs REST • IA Generativa</h3>
 
 <p align="center">
-💡 Apaixonada por criar interfaces modernas, intuitivas e acessíveis.<br>
-🌱 Em constante evolução, explorando novas tecnologias e transformando ideias em experiências digitais.
+🚀 Focada no desenvolvimento de APIs escaláveis, integrações e arquitetura back-end.<br>
+💡 Explorando Inteligência Artificial, Node.js e boas práticas de desenvolvimento moderno.
 </p>
 
 ---
 
 ## ✨ Sobre mim
 
-Olá! 👋 Me chamo **Thays Costa**, sou uma desenvolvedora **Fullstack** com forte inclinação para o **desenvolvimento Front-End**. Tenho um olhar atento para o design, usabilidade e experiência do usuário — acredito que tecnologia deve ser bonita, funcional e acessível.
+Olá! 👋 Me chamo **Thays Costa**, sou desenvolvedora com foco em **Back-end**, apaixonada por construir APIs, integrações e soluções escaláveis.
 
-- 🎓 Atualmente estudando e praticando com foco em projetos web modernos
-- 💻 Trabalhando em projetos pessoais e aprimorando minhas habilidades com Angular e Node.js
-- 🎯 Buscando aprimorar minhas habilidades e sempre buscando evoluir na área de Dev
-- 🤝 Adoro compartilhar conhecimento e aprender em comunidade
-- 🌐 Curiosa sobre UX/UI, acessibilidade e performance na web
+Tenho experiência prática com desenvolvimento utilizando **Node.js**, criação de **APIs REST**, integração com APIs de **IA Generativa**, além de conhecimentos em arquitetura de aplicações web modernas.
+
+Atualmente estou aprofundando meus estudos em:
+- ⚙️ Desenvolvimento Back-end com Node.js
+- 🤖 Integração com APIs de IA como OpenAI
+- 🧠 Conceitos de LLMs e IA Generativa
+- 🐳 Docker e arquitetura de microsserviços
+- 🔐 Boas práticas de APIs, autenticação e segurança
 
 ---
 
-## 🚀 Tecnologias que utilizo no dia a dia
+## 🚀 Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  
+
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </p>
 
 ---
+
+## 📌 Projetos em destaque
+
+- 🤖 API com integração OpenAI utilizando Node.js
+- 📦 Estruturação de back-end escalável com Express
+- 🌐 Projetos Fullstack com Angular + Node.js
+
+---
+
+## 📫 Contato
 
 <p>
   <a href="https://www.linkedin.com/in/thays-silva-costa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://portifolio-thays-costa.vercel.app/home#home" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-EC5FA4?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
